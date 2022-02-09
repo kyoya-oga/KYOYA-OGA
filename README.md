@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KYOYA
-- 👀 I’m interested in frontend Developments
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React, Next.js, Remix, React Native 
 
 <!---

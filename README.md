@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KYOYA
+- 👋 Hi, I’m KYOYA from Japan
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React, Next.js, Remix, React Native 
 

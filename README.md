@@ -9,7 +9,7 @@ I've been working in Web Development for 2 years. I'm passionate about creating 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [kyoya.dev](http://kyoya.dev)
 * ✉️  You can contact me at [contact@kyoya.dev](mailto:contact@kyoya.dev)
-* 🧠  I'm learning Next.js, Remix, and Laravel😁
+* 🧠  I'm learning React, especially Next.js and Remix.
 
 ### Skills
 
@@ -33,7 +33,6 @@ I've been working in Web Development for 2 years. I'm passionate about creating 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
 

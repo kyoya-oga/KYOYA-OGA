@@ -4,7 +4,7 @@ Hi 👋 My name is Kyoya
 Web Developer
 -------------
 
-I've been working in Web Development for 2 years. I'm passionate about creating better websites!
+I've been working in Web Development. I'm passionate about creating better websites and web applications!
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [kyoya.dev](http://kyoya.dev)

@@ -8,7 +8,7 @@ I've been working in Web Development. I'm passionate about creating better websi
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [kyoya.dev](http://kyoya.dev)
-* ✉️  You can contact me at [contact@kyoyaoga.dev](mailto:contact@kyoyaoga.dev)
+* ✉️  You can contact me at [kyoyawebdev@gmail.com](mailto:kyoyawebdev@gmail.com)
 * 🧠  I'm learning React, especially Next.js and Remix.
 
 ### Skills

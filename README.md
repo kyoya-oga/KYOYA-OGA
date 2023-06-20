@@ -1,15 +1,13 @@
-Hi 👋 My name is Kyoya
-======================
+# Hi 👋 My name is Kyoya
 
-Web Developer
--------------
+## Web Developer
 
 I've been working in Web Development. I'm passionate about creating better websites and web applications!
 
-* 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [kyoya.dev](http://kyoya.dev)
-* ✉️  You can contact me at [kyoyawebdev@gmail.com](mailto:kyoyawebdev@gmail.com)
-* 🧠  I'm learning React, especially Next.js and Remix.
+- 🌍  I'm based in Thailand
+- 🖥️  See my portfolio at [kyoya.dev](http://kyoya.dev)
+- ✉️  You can contact me at [kyoyawebdev@gmail.com](mailto:kyoyawebdev@gmail.com)
+- 🧠  I'm learning React, especially Next.js and Remix.
 
 ### Skills
 
@@ -33,16 +31,15 @@ I've been working in Web Development. I'm passionate about creating better websi
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/KYOYA-OGA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges -->
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KYOYA-OGA"><img src="https://github-readme-stats.vercel.app/api?username=KYOYA-OGA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KYOYA-OGA's GitHub stats" /></a>
+<a href="http://www.github.com/KYOYA-OGA"><img src="https://github-readme-stats.vercel.app/api?username=KYOYA-OGA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KYOYA-OGA's GitHub stats" /></a> -->
 
 <!-- ### Support Me -->
 
